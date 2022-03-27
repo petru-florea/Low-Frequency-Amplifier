@@ -5,9 +5,7 @@
 ---
 # README
 
-### What is this repository?
-
-**Quick summary**
+### Quick summary
 
 This is a BJT based Class AB low frquency amplifier (audio amplifier) PCB design using SMD technology.
 
