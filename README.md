@@ -30,6 +30,6 @@ Starting from the top level:
 + *Layout* - This contains the PCB Gerbers and drill file for manufacture, there is also a .jpg image with the PCB layout
 + *Project docs* - This contains the relevant documenation for this project (in Romanian)
 + *Schematics* - This contains the original OrCad schematic and design files. There are two folders inside: 
-    - *Simulation* contains the OrCad schematic used for circuit simulation
-    - *Transfer PCB* contains the OrCad schematic used for exporting the circuit to the OrCad PCB Editor
+    - *Simulation* - contains the OrCad schematic used for circuit simulation
+    - *Transfer PCB* - contains the OrCad schematic used for exporting the circuit to the OrCad PCB Editor
 + *Simulations* - This folder contains images of different simulations that prove the circuit is working adequately
