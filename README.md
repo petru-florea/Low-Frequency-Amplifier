@@ -1,5 +1,6 @@
 # Low Frequency Amplifier
 ### Revision 1.0
+<img src="./Schematics/Electrical diagram - Transfer PCB.jpg">
 
 ---
 # README
