@@ -23,8 +23,13 @@ This repository contains the OrCad design files, manufacturing Gerber/drill file
 + The presence of supply voltages is signaled by an LED
 
 ### Project folder structure
+
 Starting from the top level:
-+ *Bill of Materials*  - This contains the bill of materials in CVS, LibreOffice Calc and XML formats
-+ *Drawings*  - This contains PDF and SVG outputs of schematic and PCB files
-+ *Gerbers* - This contains the PCB Gerbers and drill drawings for manufacture, there is also a zip file ready to send to most manufacturers
-+ *KiCad* - This contains the original KiCad schematic and PCB design files
++ *Bill_of_Materials*  - This contains the bill of materials in .xls and .BOM formats
++ *Data sheets* - This contains the data sheets for the electronic devices used
++ *Layout* - This contains the PCB Gerbers and drill file for manufacture, there is also a .jpg image with the PCB layout
++ *Project docs* - This contains the relevant documenation for this project (in Romanian)
++ *Schematics* - This contains the original OrCad schematic and design files. There are two folders inside: 
+    - *Simulation* contains the OrCad schematic used for circuit simulation
+    - *Transfer PCB* contains the OrCad schematic used for exporting the circuit to the OrCad PCB Editor
++ *Simulations* - This folder contains images of different simulations that prove the circuit is working adequately
