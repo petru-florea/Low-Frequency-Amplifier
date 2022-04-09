@@ -13,6 +13,7 @@ This repository contains the OrCad design files, manufacturing Gerber/drill file
 
 ### Design characteristics
 
++ VCC: 10V; VEE: -10V
 + Input signal, *ui* in the range: ±1 [V]
 + Output load, *RL*: 40 [Ω]
 + Input resistance *Ri* > 0.1 [MΩ]
