@@ -20,7 +20,7 @@ This repository contains the OrCad design files, manufacturing Gerber/drill file
 + Output resistance *Ro* < 0.8 [Ω]
 + Voltage gain, *Av*: 10
 + Operating temperature range: -20 - 120°C
-+ The presence of supply voltages is signaled by an LED
++ The presence of supply voltages is signaled by two LEDs
 
 ### Project folder structure
 
